@@ -1,5 +1,7 @@
 # Dashboard for Bookmarks - Chrome Exntesion
 
+I have cloned this project from: https://github.com/encoreshao/dashboard-for-bookmarks for tweaking to my own personal taste.
+
 ### Review already installed extensions
 
   * Open your Chrome and visit the URL chrome://extensions - Enjoy it!
